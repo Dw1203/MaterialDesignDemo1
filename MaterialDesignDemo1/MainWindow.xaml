@@ -107,7 +107,5 @@
 		</ComboBox>
 		<TextBlock Margin="6,1" Foreground="White">Purchase Information</TextBlock>
 		<ComboBox Margin="6,1" Style="{StaticResource MaterialDesignComboBox}"></ComboBox>
-		<TextBlock Margin="6,1" Foreground="White">Purchase Information</TextBlock>
-		<TextBlock Margin="6,1" Foreground="White">Purchase Information</TextBlock>
 	</StackPanel>
 </Window>
